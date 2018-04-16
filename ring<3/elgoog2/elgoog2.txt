@@ -1,0 +1,11 @@
+Enjoy the pool party.
+
+Team token: 571:5e347ce806eba35dfeeff5d9a81fb4c851c87767
+
+Files: Link
+
+Difficulty: Hard-Insane
+
+This challenge is evaluated manually. Check the README.txt file for details.
+
+NOTE: the driver differs slightly from the one in elgoog1

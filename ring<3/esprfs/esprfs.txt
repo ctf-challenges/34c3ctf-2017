@@ -1,0 +1,9 @@
+I needed an excuse to write a filesystem because why not? :). Check the files for more instructions regarding building the VM.
+
+insmod esprfs.ko; mount -t espr none <dir>
+
+PSA: the filesystem is not meant to be a production grade filesystem and only supports basic operations, as such don't expect to do anything more than really basic things on it :)
+
+Files: Link
+
+Difficulty: hard

@@ -1,0 +1,7 @@
+We are giving you access to a box created via vagrant + VirtualBox. The flag is in the file /flag on the host.
+
+Files: Link
+
+Difficulty: Hard
+
+Christmas hint: Make sure to check extra data.

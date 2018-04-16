@@ -1,0 +1,8 @@
+If you found babyvm too easy, you might like this more.
+
+The VM is almost the same as for babyvm. The only file we changed is victimbox/Vagrantfile. You won't get the new version though, so you may want to check babyvm out first.
+
+Connect: socat tcp4:178.63.8.31:1338 -,raw,echo=0
+
+Hints:
+	IMPORTANT! The flag file on the host is called /flag2

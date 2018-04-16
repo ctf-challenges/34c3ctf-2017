@@ -1,0 +1,23 @@
+Welcome!
+
+In this challenge you are asked to pwn a modified Chromium and read the flag from /flag. You can find the challenge files here: https://34c3ctf.ccc.ac/uploads/v9-cc3610226678027367fef6992639abc1ee6dcaed.tar.gz
+
+This challenge will work as follows:
+
+    1. I'll ask you for a proof-of-work
+
+    2. I'll ask you for a URL to your exploit and try to access it
+
+    3. I'll enqueue your URL
+
+    4. Once it's your turn, I'll run Chromium in a fresh container and point it to your URL
+
+    5. I'll destroy the container after 120 seconds
+
+Current length of the queue: 0
+
+Enjoy!
+
+Proof of work code & solver can be found at https://34c3ctf.ccc.ac/uploads/pow.py
+Your challenge is 16777216_629a5ebe46044b3a
+Your solution: 
